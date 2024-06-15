@@ -891,7 +891,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   _container: {fileID: 495707055}
-  _prefab: {fileID: 0}
+  _prefab: {fileID: 4585351971847789218, guid: 7b9c6316fc758ca48bef707f7f99b1ce, type: 3}
 --- !u!114 &1279617393
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -904,9 +904,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: eb6278fc38925724294368f54b2ff19f, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  _delay: 0
-  _upperBound: 0
-  _lowerBound: 0
+  _delay: 4
+  _upperBound: 2
+  _lowerBound: -2
   _pool: {fileID: 1279617392}
 --- !u!1 &1432444343
 GameObject:
